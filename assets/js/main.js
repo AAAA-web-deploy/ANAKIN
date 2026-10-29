@@ -59,14 +59,14 @@
     {
         "label": "FILE / 001 — MISSION BRIEFING",
         "heading": "THE STORY IS JUST BEGINNING.",
-        "text": "ANAKIN is a cinematic, fan-inspired meme token concept. The site uses an Ethereum-inspired color palette; trading information is not currently linked.",
+        "text": "Anakin Skywalker (ticker: ANAKIN) is a cinematic, fan-inspired meme token. The site uses an Ethereum-inspired color palette; trading information is not currently linked.",
         "extra": "There are no promises about future performance. Official information will be posted here when available."
     },
     {
         "label": "FILE / 002 — CONTRACT STATUS",
         "heading": "CONTRACT ADDRESS: COMING SOON.",
         "text": "The CA and any verification links are not being displayed yet. Only rely on verified project announcements once published.",
-        "extra": "Network: coming soon. Display name: Anakin Skywalker. Ticker: Anakin."
+        "extra": "Token name: Anakin Skywalker. Ticker: ANAKIN. Network: coming soon."
     },
     {
         "label": "FILE / 003 — TOKEN DETAILS",
