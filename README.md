@@ -16,4 +16,4 @@ Create a public GitHub repository, upload the entire *contents* of this folder t
 - Existing saga, FAQ, information tabs, arcade game, and Holocron helper preserved.
 
 ## Caveats
-Project is unofficial and fan-inspired and is not endorsed by Lucasfilm, Disney, Solana, or Ethereum. Separate intellectual property clearance may be needed for public commercial use. Cryptocurrency involves significant financial risk.
+Project is unofficial and fan-inspired and is not endorsed by Lucasfilm, Disney, or any blockchain foundation. Separate intellectual property clearance may be needed for public commercial use. Cryptocurrency involves significant financial risk.

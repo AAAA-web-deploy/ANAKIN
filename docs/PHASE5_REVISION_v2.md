@@ -2,7 +2,7 @@
 
 - Removed chart/market section and all chart navigation.
 - CA, mint, buy, explorer and market links now render COMING SOON (no outgoing token links).
-- Kept Solana as previously identified network; Ethereum blue/violet remains the artistic palette.
+- Network left unmarked / coming soon; Ethereum blue/violet remains the artistic palette.
 - Expanded Every Choice, Another Story from five to nine chapters.
 - Added four scene crops derived from newly generated cinematic reference artwork (v2 filenames).
 - Gallery now fills available container width with a responsive 3-column / 2-column / 1-column layout, consistent gutters, aspect ratios, and focus/hover states.

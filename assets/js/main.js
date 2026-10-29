@@ -66,7 +66,7 @@
         "label": "FILE / 002 — CONTRACT STATUS",
         "heading": "CONTRACT ADDRESS: COMING SOON.",
         "text": "The CA and any verification links are not being displayed yet. Only rely on verified project announcements once published.",
-        "extra": "Network previously referenced: Solana. Display name: Anakin Skywalker. Ticker: Anakin."
+        "extra": "Network: coming soon. Display name: Anakin Skywalker. Ticker: Anakin."
     },
     {
         "label": "FILE / 003 — TOKEN DETAILS",
